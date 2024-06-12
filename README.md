@@ -1,2 +1,1 @@
-# PREST_WEB
-Prestの公開用webサイト
+# Prest_Web
